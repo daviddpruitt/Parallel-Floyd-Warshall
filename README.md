@@ -23,8 +23,8 @@ The code should use reasonable decomposition, use reasonable variable names,
 and should generally follow good coding standards. 
 Important, your assignment should include your name. 
 
-The program shall use the floyd warshal algorithm 
-The program shall use mpi to do the work in parallel 
-The program shall use an adjacency matrix 
-The program shall split work among multiple mpi processes 
-The program shall display a portion of the input and final matrices 
+* The program shall use the floyd warshal algorithm 
+* The program shall use mpi to do the work in parallel 
+* The program shall use an adjacency matrix 
+* The program shall split work among multiple mpi processes 
+* The program shall display a portion of the input and final matrices 
